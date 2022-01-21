@@ -85,6 +85,10 @@ img{
     width: 32%;
 }
 
+.carg--width{
+    width: 100%;
+}
+
 .btn-primary {
     color: #495057;
     border-color: #495057;
@@ -125,4 +129,12 @@ img{
 
 .carousel-dark .carousel-indicators [data-bs-target] {
     background-color: #ffffff;
+}
+
+.progress{
+    margin: 5px 0;
+}
+
+.pagination{
+    margin-top: 50px;
 }
